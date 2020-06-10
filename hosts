@@ -1,0 +1,16 @@
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1 localhost
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 wip.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+192.168.11.91 f.xbgt.com
+116.234.1.53 mynas
+#117.25.156.159 www.96369.net
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+# Localhost (DO NOT REMOVE) End
